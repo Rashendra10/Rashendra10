@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rashendra Kadariya
 - 👀 I’m interested in Technology 
-- 🌱 I’m currently learning programm
+- 🌱 I’m currently learning programming
 - 😄 Pronouns: ******
 - ⚡ Fun fact: Lazy 
 
