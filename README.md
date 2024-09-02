@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Rashendra Kadariya
-- 👀 I’m interested in Technology 
-- 🌱 I’m currently learning programming
-- 😄 Pronouns: ******
-- ⚡ Fun fact: Lazy 
+- 🔭 Passionate about Technology
+- 💻 Currently Learning
+-🎯 Growth Mindset
+-🛠️ Projects
+  
 
 <!---
 Rashendra10/Rashendra10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
